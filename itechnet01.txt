@@ -1,7 +1,5 @@
 aws training 
 pro training 
 sec training 
-<<<<<<< HEAD
-line 4 azure courses
-=======
-
+line 4 amazon courses
+line 5 cisco courses
