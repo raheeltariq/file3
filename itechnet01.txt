@@ -1,4 +1,7 @@
 aws training 
 pro training 
 sec training 
+<<<<<<< HEAD
 line 4 azure courses
+=======
+

@@ -1,1 +1,2 @@
 azure training
+az-104 
